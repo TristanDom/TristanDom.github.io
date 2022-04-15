@@ -1,0 +1,1 @@
+Creación de directorio para el almacenamiento de archivos de tipo PDF para su descarga o visualizacón dentro de la página de currículum.
